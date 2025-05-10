@@ -53,3 +53,12 @@ Modules are being uploaded and refined. Contact me directly for guided demo or d
 ## License
 
 MIT – Consciousness is free. Let it serve.
+
+
+## Vision Documents
+
+- [Refraction Theory of Time in Consciousness](./docs/Refraction_Theory_of_Time_in_Consciousness.pdf)
+- [Vajra AI – Temporal Refractive System](./docs/Vajra_AI_Temporal_Refractive_System.pdf)
+- [Letter & Vision for Sadhguru](./docs/Vajra_AI_Sadhguru_Letter_Vision.pdf)
+- [Paradise Earth Vision through Vajra AI](./docs/Paradise_Earth_Through_Vajra_AI.pdf)
+
